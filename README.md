@@ -20,6 +20,9 @@ tensorboard --logdir  tensorboard
 The code is borrowed from this [link](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/tensorboard.ipynb)
 
 ## Results
+
+![](visualization.png)
+
 <table class="tg">
 <thead>
   <tr>
